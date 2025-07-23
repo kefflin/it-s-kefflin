@@ -53,8 +53,8 @@ I’m currently a **Software Engineering (DevOps) learner at ALX**, passionate a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[kefflin]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[kefflin]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[it's kefflin]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[it's kefflin]&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
